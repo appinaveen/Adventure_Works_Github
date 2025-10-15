@@ -1,12 +1,12 @@
 {
-  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.2.0/schema.json",
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.1.0/schema.json",
   "name": "ddc669d1ed997bf82754",
   "position": {
-    "x": 16.937618147448017,
+    "x": 16.192283364958886,
     "y": 0,
     "z": 5000,
-    "height": 53.232514177693766,
-    "width": 489.98109640831757
+    "height": 53.434535104364329,
+    "width": 845.2371916508539
   },
   "visual": {
     "visualType": "textbox",
@@ -18,7 +18,7 @@
               {
                 "textRuns": [
                   {
-                    "value": "Executive Summary - Sales Report",
+                    "value": "Executive Summary updated- Sales Report",
                     "textStyle": {
                       "fontWeight": "bold",
                       "fontSize": "20pt",
